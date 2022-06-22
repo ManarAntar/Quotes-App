@@ -1,0 +1,14 @@
+h1 {
+    font-family: 'League Gothic', sans-serif;
+    font-size: 100px;
+    font-weight: 600;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    background-color: blue;
+}
+button:hover{
+    background-color: green;
+}
