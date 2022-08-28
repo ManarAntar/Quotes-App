@@ -1,0 +1,26 @@
+h1 {
+    font-family: 'League Gothic', sans-serif;
+    font-size: 100px;
+    font-weight: 600;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+button{
+    background-color: blue;
+    border: blue;
+    padding: 15px 40px;
+}
+button:hover{
+    background-color: green;
+    border: green;
+}
+@media(max-width:768px){
+    h1 {
+        font-size: 55px;
+        font-weight: 600;
+    }
+    button{
+        padding: 10px 25px;
+    }
+}
